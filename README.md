@@ -1,9 +1,9 @@
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=BD71FA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Fabricio++Almeida+Dos+Anjos;I+am+from+Santo+André,+SP;Welcome!&https://git.io/typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com/color=#2C4DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Fabricio++Almeida+Dos+Anjos;I+am+from+Santo+André,+SP;Welcome!&https://git.io/typing-svg"/>
 <hr>
 <h2>Technologies:</h2>
 
-![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)
+
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
