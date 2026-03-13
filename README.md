@@ -21,6 +21,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabricio155&size=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fabricio155&layout=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fabricio155&show_icons=true&theme=dark&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA" alt="Fabricio's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio155&layout=compact&theme=dark&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA" alt="Top Langs" height="150" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabricio155&bg=compact&bg_color=0d1117&border_color=BD71FA&title_color=BD71FA&text_color=BD71FA_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabricio155&bg_color=0d1117&color=BD71FA&line=BD71FA&point=BD71FA&area=true&hide_border=false)](https://github.com/Fabricio155)
