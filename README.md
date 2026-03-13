@@ -1,5 +1,5 @@
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com/color=#2C4DFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Fabricio++Almeida+Dos+Anjos;I+am+from+Santo+André,+SP;Welcome!&https://git.io/typing-svg"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C4DFF&center=true&vCenter=true&width=1000&lines=Hello+World,+My+name+is+Fabricio+Almeida+Dos+Anjos;I+am+from+Santo+André,+SP;Welcome!">
 <hr>
 <h2>Technologies:</h2>
 
